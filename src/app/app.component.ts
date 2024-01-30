@@ -9,7 +9,7 @@ import { ParteseisComponent } from './parteseis/parteseis.component';
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet, ParteunoComponent, PartedosComponent, PartetresComponent, PartecuatroComponent, PartecincoComponent,ParteseisComponent],
+  imports: [RouterOutlet, ParteunoComponent, PartedosComponent, PartetresComponent, PartecuatroComponent, PartecincoComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
